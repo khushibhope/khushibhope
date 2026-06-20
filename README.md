@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Khushi Bhope<br><br>🎓 BCA Graduate from MediCaps University.<br>📚 Starting My MCA Journey .<br><br>💻 Passionate about Cloud Computing, DevOps, Cyber Security, and Full Stack Development.<br><br>🚀 Technical Skills:<br>• Cloud Computing (Microsoft Azure &  AWS)<br>• Python Development<br>• SQL , Power Bi<br>• DevOps & CI/CD<br>• Cyber Security Fundamentals<br>• Git & GitHub<br><br>🌱 Currently expanding my knowledge in Cloud Security, DevOps Automation, and Modern Web Technologies.<br><br>✨ I enjoy building scalable applications, automating workflows, and exploring secure cloud solutions.<br><br>📫 Let's connect and collaborate on innovative projects!
+👋 Hi, I'm Khushi Bhope<br><br>🎓 BCA Graduate from MediCaps University.<br>📚 Starting My MCA Journey .<br><br>💻 Passionate about Cloud Computing, DevOps, Cyber Security, and Full Stack Development.<br><br>🚀 Technical Skills:<br>• Cloud Computing (Microsoft Azure &  AWS)<br>• Python Development<br>• SQL , Power BI<br>• DevOps & CI/CD<br>• Cyber Security Fundamentals<br>• Git & GitHub<br><br>🌱 Currently expanding my knowledge in Cloud Security, DevOps Automation, and Modern Web Technologies.<br><br>✨ I enjoy building scalable applications, automating workflows, and exploring secure cloud solutions.<br><br>📫 Let's connect and collaborate on innovative projects!
 
 
 ## 🌐 Socials:
